@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="textview">TextView</string>
+    <string name="web">web</string>
+    <string name="camera">Camera</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="hello">hello</string>
+    <string name="web_view">Web View</string>
+    <string name="multi_screen">Multi Screen</string>
+    <string name="welcome_to_rishav_s_app">Welcome to Rishav\'s App</string>
+    <string name="enter_order">Enter order</string>
+    <string name="order_now">Order Now !</string>
+    <string name="welcome_here_signup_to_continue">Welcome here !!, SignUp to continue</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_username_unique">Enter username (unique)</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="welcome_login_to_continue">Welcome ! LogIn to continue..</string>
+    <string name="login">Login</string>
+    <string name="i_accept_all_t_amp_c"><![CDATA[I accept all T&C]]></string>
+    <string name="dialog_box">Dialog Box</string>
+    <string name="alert_box">Alert Box</string>
+    <string name="photo_frame">Photo Frame</string>
+</resources>

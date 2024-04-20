@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/buttonImplicitIntent"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="@color/purple"
+        android:elevation="30dp"
+        android:text="@string/implicit_intent" />
+
+    <Button
+        android:id="@+id/buttonWebView"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="@color/purple"
+        android:elevation="30dp"
+        android:text="@string/web_view" />
+
+    <Button
+        android:id="@+id/buttonMultiScreen"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="@color/purple"
+        android:elevation="30dp"
+        android:text="@string/multi_screen" />
+    <Button
+        android:id="@+id/buttonSignInDB"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="@color/purple"
+        android:elevation="30dp"
+        android:text="@string/sign_up" />
+
+    <Button
+        android:id="@+id/btnDialogBox"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="@color/blue"
+        android:text="@string/dialog_box" />
+
+    <Button
+        android:id="@+id/btnAlertBox"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="@color/blue"
+        android:text="@string/alert_box" />
+
+    <Button
+        android:id="@+id/btnPhotoFrame"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="@color/blue"
+        android:text="@string/photo_frame" />
+</LinearLayout>

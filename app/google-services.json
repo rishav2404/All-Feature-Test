@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "407691401003",
+    "firebase_url": "https://all-features-6a6bc-default-rtdb.firebaseio.com",
+    "project_id": "all-features-6a6bc",
+    "storage_bucket": "all-features-6a6bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407691401003:android:a57e8e989c2648d655d76e",
+        "android_client_info": {
+          "package_name": "com.rishav.allfeatures"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0IZct2xeEF07ntlh_kTZcNmmCW2o2vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
